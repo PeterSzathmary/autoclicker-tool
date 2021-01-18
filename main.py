@@ -1,3 +1,7 @@
+# Don't forget to download packages:
+# pip install keyboard
+# pip install mouse
+
 import keyboard
 import mouse
 import time
